@@ -1,5 +1,5 @@
 # PS
-A repo for assignment
+A repository for assignment
 
 Uploaded code from previous problem set
 
